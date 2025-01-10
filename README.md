@@ -1,7 +1,5 @@
 # Slack: UI Clone with React Native / Expo
 
-[![follow @calebnance](https://img.shields.io/twitter/follow/calebnance.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/calebnance)
-
 <p align="center">
   <img src="screenshots/screenshare-3_v1.jpg?raw=true" />
 </p>
